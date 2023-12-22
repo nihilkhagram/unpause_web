@@ -1,0 +1,5200 @@
+Array
+(
+    [date] => 24-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 25-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 26-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 26-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 26-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 26-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 26-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 26-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 26-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 26-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 25-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 25-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 25-08-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 25-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 25-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 25-08-2023
+)
+Array
+(
+    [date] => 24-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 24-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 10-September-2023
+)
+Array
+(
+    [date] => 9-September-2023
+)
+Array
+(
+    [date] => 8-September-2023
+)
+Array
+(
+    [date] => 7-September-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 24-August-2023
+)
+Array
+(
+    [date] => 23-August-2023
+)
+Array
+(
+    [date] => 22-August-2023
+)
+Array
+(
+    [date] => 21-August-2023
+)
+Array
+(
+    [date] => 17-August-2023
+)
+Array
+(
+    [date] => 14-August-2023
+)
+Array
+(
+    [date] => 13-August-2023
+)
+Array
+(
+    [date] => 14-August-2023
+)
+Array
+(
+    [date] => 15-August-2023
+)
+Array
+(
+    [date] => 16-August-2023
+)
+Array
+(
+    [date] => 17-August-2023
+)
+Array
+(
+    [date] => 18-August-2023
+)
+Array
+(
+    [date] => 19-August-2023
+)
+Array
+(
+    [date] => 20-August-2023
+)
+Array
+(
+    [date] => 21-August-2023
+)
+Array
+(
+    [date] => 22-August-2023
+)
+Array
+(
+    [date] => 23-August-2023
+)
+Array
+(
+    [date] => 24-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 13-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 24-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 30-08-2023
+)
+Array
+(
+    [date] => 31-08-2023
+)
+Array
+(
+    [date] => 01-09-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 25-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 30-08-2023
+)
+Array
+(
+    [date] => 31-08-2023
+)
+Array
+(
+    [date] => 01-09-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 30-08-2023
+)
+Array
+(
+    [date] => 31-08-2023
+)
+Array
+(
+    [date] => 01-09-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 25-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 24-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 30-08-2023
+)
+Array
+(
+    [date] => 31-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 30-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 30-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 25-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 24-August-2023
+)
+Array
+(
+    [date] => 23-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 23-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 24-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 24-August-2023
+)
+Array
+(
+    [date] => 23-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 27-08-2023
+)
+Array
+(
+    [symptom_id] => symptomVaginalDryness
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 23-August-2023
+)
+Array
+(
+    [date] => 22-August-2023
+)
+Array
+(
+    [date] => 21-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 22-August-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 23-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 26-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 25-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 30-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 27-August-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 31-08-2023
+)
+Array
+(
+    [date] => 30-08-2023
+)
+Array
+(
+    [date] => 31-08-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 30-August-2023
+)
+Array
+(
+    [date] => 29-August-2023
+)
+Array
+(
+    [date] => 28-August-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 3-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 3-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 3-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 3-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 3-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 3-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 5-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 3-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 3-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 3-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 3-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 31-August-2023
+)
+Array
+(
+    [date] => 3-September-2023
+)
+Array
+(
+    [date] => 02-09-2023
+)
+Array
+(
+    [date] => 01-09-2023
+)
+Array
+(
+    [date] => 02-09-2023
+)
+Array
+(
+    [date] => 03-09-2023
+)
+Array
+(
+    [date] => 02-09-2023
+)
+Array
+(
+    [date] => 03-09-2023
+)
+Array
+(
+    [date] => 31-08-2023
+)
+Array
+(
+    [date] => 02-09-2023
+)
+Array
+(
+    [date] => 02-09-2023
+)
+Array
+(
+    [date] => 02-09-2023
+)
+Array
+(
+    [date] => 01-09-2023
+)
+Array
+(
+    [date] => 31-08-2023
+)
+Array
+(
+    [date] => 30-08-2023
+)
+Array
+(
+    [date] => 20-08-2023
+)
+Array
+(
+    [date] => 18-08-2023
+)
+Array
+(
+    [date] => 22-08-2023
+)
+Array
+(
+    [date] => 23-08-2023
+)
+Array
+(
+    [date] => 26-08-2023
+)
+Array
+(
+    [date] => 27-08-2023
+)
+Array
+(
+    [date] => 28-08-2023
+)
+Array
+(
+    [date] => 29-08-2023
+)
+Array
+(
+    [date] => 02-09-2023
+)
+Array
+(
+    [date] => 01-09-2023
+)
+Array
+(
+    [date] => 03-09-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 2-September-2023
+)
+Array
+(
+    [date] => 1-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 5-September-2023
+)
+Array
+(
+    [date] => 3-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 5-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 5-September-2023
+)
+Array
+(
+    [date] => 4-September-2023
+)
+Array
+(
+    [date] => 18-September-2023
+)
+Array
+(
+    [date] => 19-September-2023
+)
+Array
+(
+    [date] => 18-September-2023
+)
+Array
+(
+    [date] => 17-September-2023
+)
+Array
+(
+    [date] => 18-September-2023
+)
+Array
+(
+    [date] => 19-September-2023
+)
+Array
+(
+    [date] => 21-September-2023
+)
+Array
+(
+    [date] => 23-September-2023
+)
+Array
+(
+    [date] => 22-September-2023
+)
+Array
+(
+    [date] => 22-September-2023
+)
+Array
+(
+    [date] => 22-September-2023
+)
+Array
+(
+    [date] => 22-September-2023
+)
+Array
+(
+    [date] => 23-September-2023
+)
+Array
+(
+    [date] => 21-September-2023
+)
+Array
+(
+    [date] => 20-September-2023
+)
+Array
+(
+    [date] => 21-September-2023
+)
+Array
+(
+    [date] => 19-September-2023
+)
+Array
+(
+    [date] => 18-September-2023
+)
+Array
+(
+    [date] => 22-September-2023
+)
+Array
+(
+    [date] => 23-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 26-September-2023
+)
+Array
+(
+    [date] => 24-September-2023
+)
+Array
+(
+    [date] => 26-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 26-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 25-September-2023
+)
+Array
+(
+    [date] => 26-September-2023
+)
+Array
+(
+    [date] => 26-September-2023
+)
+Array
+(
+    [date] => 26-September-2023
+)
+Array
+(
+    [date] => 26-September-2023
+)
+Array
+(
+    [date] => 27-September-2023
+)
+Array
+(
+    [date] => 26-September-2023
+)
+Array
+(
+    [date] => 27-September-2023
+)
+Array
+(
+    [date] => 27-September-2023
+)
+Array
+(
+    [date] => 27-September-2023
+)
+Array
+(
+    [date] => 27-September-2023
+)
+Array
+(
+    [date] => 27-September-2023
+)
+Array
+(
+    [date] => 4-October-2023
+)
+Array
+(
+    [date] => 2-October-2023
+)
+Array
+(
+    [date] => 5-October-2023
+)
+Array
+(
+    [date] => 4-October-2023
+)
+Array
+(
+    [date] => 7-October-2023
+)
+Array
+(
+    [date] => 7-October-2023
+)
+Array
+(
+    [date] => 7-October-2023
+)
+Array
+(
+    [date] => 7-October-2023
+)
+Array
+(
+    [date] => 7-October-2023
+)
+Array
+(
+    [date] => 7-October-2023
+)
+Array
+(
+    [date] => 7-October-2023
+)
+Array
+(
+    [date] => 7-October-2023
+)
+Array
+(
+    [date] => 9-October-2023
+)
+Array
+(
+    [date] => 9-October-2023
+)
+Array
+(
+    [date] => 9-October-2023
+)
+Array
+(
+    [date] => 12-October-2023
+)
+Array
+(
+    [date] => 12-October-2023
+)
+Array
+(
+    [date] => 12-October-2023
+)
+Array
+(
+    [date] => 12-October-2023
+)
+Array
+(
+    [date] => 13-October-2023
+)
+Array
+(
+    [date] => 13-October-2023
+)
+Array
+(
+    [date] => 13-October-2023
+)
+Array
+(
+    [date] => 13-October-2023
+)
+Array
+(
+    [date] => 16-October-2023
+)
+Array
+(
+    [date] => 16-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 20-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 20-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 20-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 17-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 18-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 19-October-2023
+)
+Array
+(
+    [date] => 21-October-2023
+)
+Array
+(
+    [date] => 21-October-2023
+)
+Array
+(
+    [date] => 21-October-2023
+)
+Array
+(
+    [date] => 21-October-2023
+)
+Array
+(
+    [date] => 25-October-2023
+)
+Array
+(
+    [date] => 25-October-2023
+)
+Array
+(
+    [date] => 25-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 25-October-2023
+)
+Array
+(
+    [date] => 24-October-2023
+)
+Array
+(
+    [date] => 25-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 2-November-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 26-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 2-November-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 27-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 29-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 28-October-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 31-October-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 31-10-2023
+)
+Array
+(
+    [date] => 29-10-2023
+)
+Array
+(
+    [date] => 31-10-2023
+)
+Array
+(
+    [date] => 01-11-2023
+)
+Array
+(
+    [date] => 02-11-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-10-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 31-October-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 1-November-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 30-October-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 02-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 3-November-2023
+)
+Array
+(
+    [date] => 3-November-2023
+)
+Array
+(
+    [date] => 3-November-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 3-November-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 3-November-2023
+)
+Array
+(
+    [date] => 2-November-2023
+)
+Array
+(
+    [date] => 4-November-2023
+)
+Array
+(
+    [date] => 3-November-2023
+)
+Array
+(
+    [date] => 4-November-2023
+)
+Array
+(
+    [date] => 3-November-2023
+)
+Array
+(
+    [date] => 3-November-2023
+)
+Array
+(
+    [date] => 3-November-2023
+)
+Array
+(
+    [date] => 3-November-2023
+)
+Array
+(
+    [date] => 3-November-2023
+)
+Array
+(
+    [date] => 3-November-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 02-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 05-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 02-11-2023
+)
+Array
+(
+    [date] => 03-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 04-11-2023
+)
+Array
+(
+    [date] => 10-11-2023
+)
+Array
+(
+    [date] => 10-11-2023
+)
+Array
+(
+    [date] => 11-11-2023
+)
+Array
+(
+    [date] => 11-11-2023
+)
+Array
+(
+    [date] => 11-11-2023
+)
+Array
+(
+    [date] => 11-11-2023
+)
+Array
+(
+    [date] => 13-11-2023
+)
+Array
+(
+    [date] => 12-11-2023
+)
+Array
+(
+    [date] => 14-11-2023
+)
+Array
+(
+    [date] => 13-11-2023
+)
+Array
+(
+    [date] => 24-November-2023
+)
+Array
+(
+    [date] => 24-11-2023
+)
+Array
+(
+    [date] => 24-11-2023
+)
+Array
+(
+    [date] => 24-11-2023
+)
+Array
+(
+    [date] => 27-November-2023
+)
+Array
+(
+    [date] => 27-November-2023
+)
+Array
+(
+    [date] => 27-11-2023
+)
+Array
+(
+    [date] => 30-11-2023
+)
+Array
+(
+    [date] => 30-11-2023
+)
+Array
+(
+    [date] => 30-11-2023
+)
+Array
+(
+    [date] => 30-November-2023
+)
+Array
+(
+    [date] => 5-December-2023
+)
+Array
+(
+    [date] => 30-November-2023
+)
+Array
+(
+    [date] => 30-November-2023
+)
+Array
+(
+    [date] => 30-November-2023
+)
+Array
+(
+    [date] => 30-November-2023
+)
+Array
+(
+    [date] => 4-December-2023
+)
+Array
+(
+    [date] => 4-December-2023
+)
+Array
+(
+    [date] => 4-December-2023
+)
+Array
+(
+    [date] => 4-December-2023
+)
+Array
+(
+    [date] => 4-December-2023
+)
+Array
+(
+    [date] => 4-December-2023
+)
+Array
+(
+    [date] => 4-December-2023
+)
+Array
+(
+    [date] => 4-December-2023
+)
+Array
+(
+    [date] => 4-December-2023
+)
+Array
+(
+    [date] => 4-December-2023
+)
+Array
+(
+    [date] => 4-December-2023
+)
+Array
+(
+    [date] => 4-December-2023
+)
+Array
+(
+    [date] => 15-December-2023
+)
+Array
+(
+    [date] => 18-December-2023
+)
+Array
+(
+    [date] => 18-December-2023
+)

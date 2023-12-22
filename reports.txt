@@ -1,0 +1,1885 @@
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [first_name] => tstt
+    [birth_year] => 1999
+    [ethnic_origin] => tstt
+    [country_of_residence] => tstt
+    [height] => 4'4" (132 cm)
+    [weight] => 52 kg
+    [changes_weight] => Yes
+    [often_excercise] => Rarely
+    [excercise_patterns_changes] => the same amount
+    [often_consume_alcohol] => Not applicable
+    [smoke] => No
+    [period] => Yes
+    [last_period_date] => [January][2005]
+    [hot_flashes] => Yes
+    [occur_hf] => 2
+    [night_sweats] => Yes
+    [cold_flashes] => No
+    [occur_cf] => 2
+    [affect_sleep] => No
+    [is_symptoms1] => Mood Swings,Loss of Focus
+    [is_symptoms2] => Low libido, Vaginal atrophy
+    [experience_symptoms] => None
+    [spoken_abt_menopausal] => Yes
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => 20/02/2023
+    [bleeding_been_heavier_period] => fg
+    [occur_ns] => txt
+    [nhs_or_private_healthcare] => HRT
+    [whom_did_you_consult] => Exercise
+    [received_diagnosis_healthcare_professional] => Hot Flashes
+    [on_hormone_replacement_therapy] => txt
+    [which_form_of_HRT_are_you_on] => txt
+    [type_of_HRT_routine_are_you_on] => txt
+    [type_of_cyclic_HRT_routine_are_you_on] => txt
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [first_name] => sjnsbs
+    [birth_year] => 1924
+    [ethnic_origin] => Bangladeshi
+    [country_of_residence] => Albania
+    [height] => 4'1" ( 124 cm )
+    [weight] => 31kg
+    [changes_weight] => Yes
+    [often_excercise] => Occasionally
+    [excercise_patterns_changes] => I excercise more than before
+    [often_consume_alcohol] => Regularly
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => January-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 11-20 times a day
+    [cold_flashes] => More Then 20 times a day
+    [occur_cf] => More Then 20 times a day
+    [affect_sleep] => Yes
+    [is_symptoms1] => Moodswings, Lossoffocus, Lossofmemory, Anxiety
+    [is_symptoms2] => Vaginal atrophy, Low libidoPalpitations, Skin changes, Joint Pain, Burnings sensation, Fatigue
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Vaginal atrophy, Low libido
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => Yes
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => Menopause, Gynaecologist, General, Nurse, Pharmacist
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTYes
+    [which_form_of_HRT_are_you_on] => Tables, Skin patches, Oestrogengel, Implants, Vaginal, Testosterone, Progesterone
+    [type_of_HRT_routine_are_you_on] => Cyclic HRT
+    [type_of_cyclic_HRT_routine_are_you_on] => 3 Monthly HRT
+    [drinking] => Regularly
+    [exercise] => OccasionallyI excercise more than before
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [first_name] => jahsbd
+    [birth_year] => 1953
+    [ethnic_origin] => White and Black African
+    [country_of_residence] => Angola
+    [height] => 4'1" ( 124 cm )
+    [weight] => 31kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise more than before
+    [often_consume_alcohol] => Regularly
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => January-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 11-20 times a day
+    [cold_flashes] => More Then 20 times a day
+    [occur_cf] => More Then 20 times a day
+    [affect_sleep] => Yes
+    [is_symptoms1] => Moodswings, Lossoffocus, Lossofmemory, Anxiety
+    [is_symptoms2] => Vaginal atrophy, Low libidoPalpitations, Skin changes, Joint Pain, Fatigue, Burnings sensation
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Vaginal atrophy, Low libido
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => Yes
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => General, Nurse, Gynaecologist, Menopause, Pharmacist
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTYes
+    [which_form_of_HRT_are_you_on] => Tables, Skin patches, Oestrogengel, Implants, Vaginal, Testosterone, Progesterone
+    [type_of_HRT_routine_are_you_on] => Cyclic HRT
+    [type_of_cyclic_HRT_routine_are_you_on] => Monthly HRT
+    [drinking] => Regularly
+    [exercise] => RegularlyI excercise more than before
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [first_name] => test123
+    [birth_year] => 1924
+    [ethnic_origin] => Indian
+    [country_of_residence] => Afghanistan
+    [height] => 4'0" ( 121 cm )
+    [weight] => 30kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise more than before
+    [often_consume_alcohol] => Regularly
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => January-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 0-10 times a day
+    [cold_flashes] => 0-10 times a day
+    [occur_cf] => 0-10 times a day
+    [affect_sleep] => Yes
+    [is_symptoms1] => Lossoffocus, Lossofmemory
+    [is_symptoms2] => Low libidoBurnings sensation, Joint Pain
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Low libido
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => Yes
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => General, Gynaecologist, Menopause
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTYes
+    [which_form_of_HRT_are_you_on] => Tables, Skin patches, Oestrogengel
+    [type_of_HRT_routine_are_you_on] => Continuous Combined HRT
+    [type_of_cyclic_HRT_routine_are_you_on] => 3 Monthly HRT
+    [drinking] => Regularly
+    [exercise] => RegularlyI excercise more than before
+)
+Array
+(
+    [first_name] => test123
+    [birth_year] => 1924
+    [ethnic_origin] => Indian
+    [country_of_residence] => Afghanistan
+    [height] => 4'0" ( 121 cm )
+    [weight] => 30kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise more than before
+    [often_consume_alcohol] => Regularly
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => January-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 0-10 times a day
+    [cold_flashes] => 0-10 times a day
+    [occur_cf] => 0-10 times a day
+    [affect_sleep] => Yes
+    [is_symptoms1] => Lossoffocus, Lossofmemory
+    [is_symptoms2] => Low libidoBurnings sensation, Joint Pain
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Low libido
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => Yes
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => General, Gynaecologist, Menopause
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTYes
+    [which_form_of_HRT_are_you_on] => Tables, Skin patches, Oestrogengel
+    [type_of_HRT_routine_are_you_on] => Continuous Combined HRT
+    [type_of_cyclic_HRT_routine_are_you_on] => 3 Monthly HRT
+    [drinking] => Regularly
+    [exercise] => RegularlyI excercise more than before
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [first_name] => Divyesh
+    [birth_year] => 1938
+    [ethnic_origin] => Indian
+    [country_of_residence] => Angola
+    [height] => 4'1" ( 124 cm )
+    [weight] => 31kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise more than before
+    [often_consume_alcohol] => Regularly
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => January-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 11-20 times a day
+    [cold_flashes] => 0-10 times a day
+    [occur_cf] => 0-10 times a day
+    [affect_sleep] => Yes
+    [is_symptoms1] => Moodswings, Lossoffocus
+    [is_symptoms2] => Vaginal atrophyPalpitations, Skin changes, Joint Pain
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Vaginal atrophy
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => Yes
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => Nurse, General
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTYes
+    [which_form_of_HRT_are_you_on] => Tables, Skin patches
+    [type_of_HRT_routine_are_you_on] => Cyclic HRT
+    [type_of_cyclic_HRT_routine_are_you_on] => Monthly HRT
+    [drinking] => Regularly
+    [exercise] => RegularlyI excercise more than before
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [first_name] => krishna
+    [birth_year] => 1990
+    [ethnic_origin] => Indian
+    [country_of_residence] => India
+    [height] => 5'0" ( 152 cm )
+    [weight] => 48kg
+    [changes_weight] => No
+    [often_excercise] => Rarely
+    [excercise_patterns_changes] => I excercise less than before
+    [often_consume_alcohol] => Occasionally
+    [smoke] => No
+    [period] => Yes
+    [last_period_date] => January-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => No
+    [cold_flashes] => No
+    [occur_cf] => No
+    [affect_sleep] => No
+    [is_symptoms1] => Moodswings
+    [is_symptoms2] => Vaginal atrophyBurnings sensation
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Vaginal atrophy
+    [cycle_lengths_changed_recently] => No
+    [duration_period_changed] => No
+    [bleeding_been_heavier_period] => No
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => Occasionally
+    [exercise] => RarelyI excercise less than before
+)
+Array
+(
+    [first_name] => krishna
+    [birth_year] => 1990
+    [ethnic_origin] => Indian
+    [country_of_residence] => India
+    [height] => 5'0" ( 152 cm )
+    [weight] => 48kg
+    [changes_weight] => No
+    [often_excercise] => Rarely
+    [excercise_patterns_changes] => I excercise less than before
+    [often_consume_alcohol] => Occasionally
+    [smoke] => No
+    [period] => Yes
+    [last_period_date] => January-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => No
+    [cold_flashes] => No
+    [occur_cf] => No
+    [affect_sleep] => No
+    [is_symptoms1] => Moodswings
+    [is_symptoms2] => Vaginal atrophyBurnings sensation
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Vaginal atrophy
+    [cycle_lengths_changed_recently] => No
+    [duration_period_changed] => No
+    [bleeding_been_heavier_period] => No
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => Occasionally
+    [exercise] => RarelyI excercise less than before
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [first_name] => krishna
+    [birth_year] => 1927
+    [ethnic_origin] => Indian
+    [country_of_residence] => India
+    [height] => 4'0" ( 121 cm )
+    [weight] => 31kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise less than before
+    [often_consume_alcohol] => Occasionally
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => February-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 0-10 times a day
+    [cold_flashes] => No
+    [occur_cf] => No
+    [affect_sleep] => No
+    [is_symptoms1] => None
+    [is_symptoms2] => NoneSkin changes
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => None
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => No
+    [bleeding_been_heavier_period] => No
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => Occasionally
+    [exercise] => RegularlyI excercise less than before
+)
+Array
+(
+    [first_name] => krishna
+    [birth_year] => 1927
+    [ethnic_origin] => Indian
+    [country_of_residence] => India
+    [height] => 4'0" ( 121 cm )
+    [weight] => 31kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise less than before
+    [often_consume_alcohol] => Occasionally
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => February-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 0-10 times a day
+    [cold_flashes] => No
+    [occur_cf] => No
+    [affect_sleep] => No
+    [is_symptoms1] => None
+    [is_symptoms2] => NoneSkin changes
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => None
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => No
+    [bleeding_been_heavier_period] => No
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => Occasionally
+    [exercise] => RegularlyI excercise less than before
+)
+Array
+(
+)
+Array
+(
+    [first_name] => krishna
+    [birth_year] => 1927
+    [ethnic_origin] => Indian
+    [country_of_residence] => India
+    [height] => 4'0" ( 121 cm )
+    [weight] => 31kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise less than before
+    [often_consume_alcohol] => Occasionally
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => February-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 0-10 times a day
+    [cold_flashes] => No
+    [occur_cf] => No
+    [affect_sleep] => No
+    [is_symptoms1] => None
+    [is_symptoms2] => NoneSkin changes
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => None
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => No
+    [bleeding_been_heavier_period] => No
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => Occasionally
+    [exercise] => RegularlyI excercise less than before
+)
+Array
+(
+    [first_name] => krishna
+    [birth_year] => 1927
+    [ethnic_origin] => Indian
+    [country_of_residence] => India
+    [height] => 4'0" ( 121 cm )
+    [weight] => 31kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise less than before
+    [often_consume_alcohol] => Occasionally
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => February-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 0-10 times a day
+    [cold_flashes] => No
+    [occur_cf] => No
+    [affect_sleep] => No
+    [is_symptoms1] => None
+    [is_symptoms2] => NoneSkin changes
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => None
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => No
+    [bleeding_been_heavier_period] => No
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => Occasionally
+    [exercise] => RegularlyI excercise less than before
+)
+Array
+(
+    [first_name] => krishna
+    [birth_year] => 1927
+    [ethnic_origin] => Indian
+    [country_of_residence] => India
+    [height] => 4'0" ( 121 cm )
+    [weight] => 31kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise less than before
+    [often_consume_alcohol] => Occasionally
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => February-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 0-10 times a day
+    [cold_flashes] => No
+    [occur_cf] => No
+    [affect_sleep] => No
+    [is_symptoms1] => None
+    [is_symptoms2] => NoneSkin changes
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => None
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => No
+    [bleeding_been_heavier_period] => No
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => Occasionally
+    [exercise] => RegularlyI excercise less than before
+)
+Array
+(
+    [first_name] => krishna
+    [birth_year] => 1925
+    [ethnic_origin] => Indian
+    [country_of_residence] => India
+    [height] => 4'0" ( 121 cm )
+    [weight] => 37kg
+    [changes_weight] => Yes
+    [often_excercise] => Occasionally
+    [excercise_patterns_changes] => I excercise less than before
+    [often_consume_alcohol] => Occasionally
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => February-2023
+    [hot_flashes] => No
+    [occur_hf] => 
+    [night_sweats] => No
+    [cold_flashes] => No
+    [occur_cf] => No
+    [affect_sleep] => No
+    [is_symptoms1] => None
+    [is_symptoms2] => NoneBurnings sensation
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => None
+    [cycle_lengths_changed_recently] => No
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => No
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => Menopause
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTNo
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => Occasionally
+    [exercise] => OccasionallyI excercise less than before
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [first_name] => krishna new
+    [birth_year] => 1925
+    [ethnic_origin] => Indian
+    [country_of_residence] => Algeria
+    [height] => 4'0" ( 121 cm )
+    [weight] => 31kg
+    [changes_weight] => Yes
+    [often_excercise] => Occasionally
+    [excercise_patterns_changes] => I excercise less than before
+    [often_consume_alcohol] => Regularly
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => February-2023
+    [hot_flashes] => No
+    [occur_hf] => 
+    [night_sweats] => No
+    [cold_flashes] => No
+    [occur_cf] => No
+    [affect_sleep] => No
+    [is_symptoms1] => Lossofmemory
+    [is_symptoms2] => Vaginal atrophyJoint Pain
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Vaginal atrophy
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => No
+    [bleeding_been_heavier_period] => No
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => Gynaecologist
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTNo
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => Regularly
+    [exercise] => OccasionallyI excercise less than before
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [first_name] => jlvihcig
+    [birth_year] => 1946
+    [ethnic_origin] => Any other Mixed or multiple ethnic background
+    [country_of_residence] => Angola
+    [height] => 4'1" ( 124 cm )
+    [weight] => 30kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise more than before
+    [often_consume_alcohol] => Regularly
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => January-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 11-20 times a day
+    [cold_flashes] => More Then 20 times a day
+    [occur_cf] => More Then 20 times a day
+    [affect_sleep] => Yes
+    [is_symptoms1] => Moodswings, Lossoffocus, Lossofmemory, Anxiety
+    [is_symptoms2] => Vaginal atrophy, Low libidoPalpitations, Skin changes, Joint Pain, Burnings sensation, Fatigue
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Vaginal atrophy, Low libido
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => Yes
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => Nurse, General, Gynaecologist, Menopause, Pharmacist
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTYes
+    [which_form_of_HRT_are_you_on] => Tables, Skin patches, Oestrogengel, Implants, Vaginal, Testosterone, Progesterone
+    [type_of_HRT_routine_are_you_on] => Continuous Combined HRT
+    [type_of_cyclic_HRT_routine_are_you_on] => 3 Monthly HRT
+    [drinking] => Regularly
+    [exercise] => RegularlyI excercise more than before
+)
+Array
+(
+    [first_name] => Divyesh
+    [birth_year] => 1934
+    [ethnic_origin] => Indian
+    [country_of_residence] => Algeria
+    [height] => 4'0" ( 121 cm )
+    [weight] => 30kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise more than before
+    [often_consume_alcohol] => Regularly
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => January-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 0-10 times a day
+    [cold_flashes] => 0-10 times a day
+    [occur_cf] => 0-10 times a day
+    [affect_sleep] => Yes
+    [is_symptoms1] => Lossoffocus, Moodswings
+    [is_symptoms2] => Vaginal atrophyPalpitations, Skin changes
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Vaginal atrophy
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => Yes
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => General, Gynaecologist
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTYes
+    [which_form_of_HRT_are_you_on] => Tables, Skin patches
+    [type_of_HRT_routine_are_you_on] => Cyclic HRT
+    [type_of_cyclic_HRT_routine_are_you_on] => Monthly HRT
+    [drinking] => Regularly
+    [exercise] => RegularlyI excercise more than before
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [height] => 4'2" (127 cm)
+    [occur_hf] => 
+    [received_diagnosis_healthcare_professional] => Yes
+    [often_excercise] => Regularly
+    [cold_flashes] => 0-10 times a day
+    [which_form_of_HRT_are_you_on] => Progesterone,Testosterone gel,Vaginal Oestrogen,Implants,Oestrogen gel,Skin Patches,Tablets
+    [affect_sleep] => Yes
+    [ethnic_origin] => Pakistani
+    [drinking] => Regularly
+    [type_of_cyclic_HRT_routine_are_you_on] => Monthly HRT
+    [period] => Yes
+    [whom_did_you_consult] => Nurse,General Practitioner
+    [is_symptoms1] => Anxiety,Loss of memory,Loss of focus,Mood Swings
+    [hot_flashes] => More Then 20 times a day
+    [type_of_HRT_routine_are_you_on] => Continuous Combined HRT
+    [occur_cf] => 
+    [exercise] => I excercise more than before Regularly
+    [nhs_or_private_healthcare] => Both
+    [occur_ns] => 
+    [is_symptoms2] => Low libido,Painful sex,Vaginal atrophy,Fatigue,Burning sensation,Joint pain,Skin changes,Palpitations
+    [on_hormone_replacement_therapy] => Yes
+    [country_of_residence] => Antigua & Barbuda
+    [weight] => 36
+    [changes_weight] => Yes
+    [spoken_abt_menopausal] => Yes
+    [night_sweats] => 11-20 times a day
+    [last_period_date] => January-2023
+    [excercise_patterns_changes] => I excercise more than before
+    [experience_symptoms] => 
+    [often_consume_alcohol] => Regularly
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => Yes
+    [birth_year] => 2001
+    [bleeding_been_heavier_period] => Yes
+    [smoke] => Yes
+    [first_name] => krupa
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [experience_symptoms] => 
+    [ethnic_origin] => Caribbean
+    [weight] => 31
+    [received_diagnosis_healthcare_professional] => Yes
+    [occur_ns] => 
+    [birth_year] => 1999
+    [type_of_HRT_routine_are_you_on] => Continuous Combined HRT
+    [hot_flashes] => 0-10 times a day
+    [affect_sleep] => Yes
+    [duration_period_changed] => Yes
+    [which_form_of_HRT_are_you_on] => Tablets,Skin Patches,Oestrogen gel,Implants,Vaginal Oestrogen,Testosterone gel,Progesterone
+    [type_of_cyclic_HRT_routine_are_you_on] => Monthly HRT
+    [night_sweats] => 0-10 times a day
+    [smoke] => Yes
+    [height] => 4'1" (124 cm)
+    [cycle_lengths_changed_recently] => Yes
+    [first_name] => krupa
+    [drinking] => Occasionally
+    [bleeding_been_heavier_period] => Yes
+    [country_of_residence] => Antigua & Barbuda
+    [changes_weight] => Yes
+    [often_excercise] => Occasionally
+    [is_symptoms2] => Low libido,Painful sex,Vaginal atrophy,Palpitations,Skin changes,Joint pain,Burning sensation,Fatigue
+    [period] => Yes
+    [excercise_patterns_changes] => I excercise more than before
+    [occur_cf] => 
+    [nhs_or_private_healthcare] => Both
+    [on_hormone_replacement_therapy] => Yes
+    [often_consume_alcohol] => Occasionally
+    [last_period_date] => January-2023
+    [exercise] => I excercise more than before Occasionally
+    [spoken_abt_menopausal] => Yes
+    [occur_hf] => 
+    [whom_did_you_consult] => Nurse,General Practitioner,Gynaecologist,Menopause Specialist,Pharmacist
+    [cold_flashes] => More Then 20 times a day
+    [is_symptoms1] => Anxiety,Loss of memory,Loss of focus,Mood Swings
+)
+Array
+(
+    [first_name] => krupa
+    [birth_year] => 1998
+    [ethnic_origin] => Caribbean
+    [country_of_residence] => Algeria
+    [height] => 4'1" ( 124 cm )
+    [weight] => 32kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise more than before
+    [often_consume_alcohol] => Rarely
+    [smoke] => Yes
+    [period] => No
+    [last_period_date] => January-2014
+    [hot_flashes] => 11-20 times a day
+    [occur_hf] => 
+    [night_sweats] => 11-20 times a day
+    [cold_flashes] => 11-20 times a day
+    [occur_cf] => 11-20 times a day
+    [affect_sleep] => Yes
+    [is_symptoms1] => Anxiety, Lossofmemory, Lossoffocus, Moodswings
+    [is_symptoms2] => Vaginal atrophy, Low libidoFatigue, Burnings sensation, Joint Pain, Skin changes, Palpitations
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Vaginal atrophy, Low libido
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => Nurse, General, Gynaecologist, Menopause, Pharmacist
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTYes
+    [which_form_of_HRT_are_you_on] => Tables, Skin patches, Oestrogengel, Implants, Vaginal, Testosterone, Progesterone
+    [type_of_HRT_routine_are_you_on] => Continuous Combined HRT
+    [type_of_cyclic_HRT_routine_are_you_on] => Monthly HRT
+    [drinking] => Rarely
+    [exercise] => RegularlyI excercise more than before
+)
+Array
+(
+    [night_sweats] => 11-20 times a day
+    [occur_ns] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 3-Monthly HRT
+    [excercise_patterns_changes] => I excercise more than before
+    [received_diagnosis_healthcare_professional] => Yes
+    [occur_cf] => 
+    [which_form_of_HRT_are_you_on] => Tablets,Skin Patches,Oestrogen gel,Implants,Vaginal Oestrogen,Testosterone gel,Progesterone
+    [spoken_abt_menopausal] => Yes
+    [often_consume_alcohol] => Occasionally
+    [experience_symptoms] => 
+    [smoke] => Yes
+    [is_symptoms1] => Mood Swings,Loss of focus,Loss of memory,Anxiety
+    [country_of_residence] => Antigua & Barbuda
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => Yes
+    [exercise] => I excercise more than before Occasionally
+    [whom_did_you_consult] => Nurse,General Practitioner,Gynaecologist,Menopause Specialist,Pharmacist
+    [drinking] => Occasionally
+    [is_symptoms2] => Vaginal atrophy,Painful sex,Low libido,Palpitations,Skin changes,Joint pain,Burning sensation,Fatigue
+    [nhs_or_private_healthcare] => Both
+    [height] => 4'2" (127 cm)
+    [first_name] => hlzlhgxljgx
+    [birth_year] => 2000
+    [type_of_HRT_routine_are_you_on] => Cyclic HRT
+    [cold_flashes] => More Then 20 times a day
+    [often_excercise] => Occasionally
+    [occur_hf] => 
+    [period] => Yes
+    [changes_weight] => Yes
+    [cycle_lengths_changed_recently] => Yes
+    [affect_sleep] => Yes
+    [on_hormone_replacement_therapy] => Yes
+    [hot_flashes] => 0-10 times a day
+    [weight] => 32
+    [ethnic_origin] => Caribbean
+    [last_period_date] => February-2023
+)
+Array
+(
+    [first_name] => gjxgjgcj
+    [birth_year] => 1931
+    [ethnic_origin] => White and Black Caribbean
+    [country_of_residence] => Angola
+    [height] => 4'2" ( 127 cm )
+    [weight] => 32kg
+    [changes_weight] => Yes
+    [often_excercise] => Occasionally
+    [excercise_patterns_changes] => I excercise tha same amount
+    [often_consume_alcohol] => Not applicable
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => January-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 11-20 times a day
+    [cold_flashes] => More Then 20 times a day
+    [occur_cf] => More Then 20 times a day
+    [affect_sleep] => Yes
+    [is_symptoms1] => Moodswings, Lossoffocus, Lossofmemory, Anxiety
+    [is_symptoms2] => Vaginal atrophy, Low libidoPalpitations, Skin changes, Joint Pain, Burnings sensation, Fatigue
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Vaginal atrophy, Low libido
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => Yes
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => Nurse, General, Gynaecologist, Menopause, Pharmacist
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTYes
+    [which_form_of_HRT_are_you_on] => Tables, Skin patches, Oestrogengel, Implants, Vaginal, Testosterone, Progesterone
+    [type_of_HRT_routine_are_you_on] => Cyclic HRT
+    [type_of_cyclic_HRT_routine_are_you_on] => 3 Monthly HRT
+    [drinking] => Not applicable
+    [exercise] => OccasionallyI excercise tha same amount
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [night_sweats] => 0-10 times a day
+    [changes_weight] => Yes
+    [last_period_date] => January-2023
+    [experience_symptoms] => 
+    [height] => 4'0" (122 cm)
+    [affect_sleep] => Yes
+    [occur_cf] => 
+    [hot_flashes] => 0-10 times a day
+    [birth_year] => 2004
+    [type_of_HRT_routine_are_you_on] => Continuous Combined HRT
+    [cold_flashes] => 11-20 times a day
+    [type_of_cyclic_HRT_routine_are_you_on] => 3-Monthly HRT
+    [often_consume_alcohol] => Occasionally
+    [weight] => 30
+    [on_hormone_replacement_therapy] => Yes
+    [first_name] => hello
+    [excercise_patterns_changes] => I excercise more than before
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => Yes
+    [is_symptoms1] => Mood Swings,Loss of focus,Loss of memory,Anxiety
+    [whom_did_you_consult] => Menopause Specialist
+    [received_diagnosis_healthcare_professional] => Yes
+    [is_symptoms2] => Vaginal atrophy,Painful sex,Low libido,Palpitations,Skin changes,Joint pain,Burning sensation,Fatigue
+    [spoken_abt_menopausal] => Yes
+    [ethnic_origin] => African
+    [country_of_residence] => Anguilla
+    [cycle_lengths_changed_recently] => Yes
+    [smoke] => Yes
+    [drinking] => Occasionally
+    [nhs_or_private_healthcare] => Both
+    [period] => Yes
+    [which_form_of_HRT_are_you_on] => Oestrogen gel
+    [exercise] => I excercise more than before Occasionally
+    [often_excercise] => Occasionally
+    [occur_ns] => 
+    [occur_hf] => 
+)
+Array
+(
+    [first_name] => guocjl vj
+    [birth_year] => 1927
+    [ethnic_origin] => Irish
+    [country_of_residence] => Anguilla
+    [height] => 4'1" ( 124 cm )
+    [weight] => 31kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise more than before
+    [often_consume_alcohol] => Regularly
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => February-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 11-20 times a day
+    [cold_flashes] => 0-10 times a day
+    [occur_cf] => 0-10 times a day
+    [affect_sleep] => Yes
+    [is_symptoms1] => Moodswings, Lossoffocus, Lossofmemory, Anxiety
+    [is_symptoms2] => Vaginal atrophy, Low libidoPalpitations, Skin changes, Joint Pain, Burnings sensation, Fatigue
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Vaginal atrophy, Low libido
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => Yes
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => Menopause, Gynaecologist
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTYes
+    [which_form_of_HRT_are_you_on] => Tables
+    [type_of_HRT_routine_are_you_on] => Continuous Combined HRT
+    [type_of_cyclic_HRT_routine_are_you_on] => 3 Monthly HRT
+    [drinking] => Regularly
+    [exercise] => RegularlyI excercise more than before
+)
+Array
+(
+    [first_name] => guocjl vj
+    [birth_year] => 1927
+    [ethnic_origin] => Irish
+    [country_of_residence] => Anguilla
+    [height] => 4'1" ( 124 cm )
+    [weight] => 31kg
+    [changes_weight] => Yes
+    [often_excercise] => Regularly
+    [excercise_patterns_changes] => I excercise more than before
+    [often_consume_alcohol] => Regularly
+    [smoke] => Yes
+    [period] => Yes
+    [last_period_date] => February-2023
+    [hot_flashes] => 0-10 times a day
+    [occur_hf] => 
+    [night_sweats] => 11-20 times a day
+    [cold_flashes] => 0-10 times a day
+    [occur_cf] => 0-10 times a day
+    [affect_sleep] => Yes
+    [is_symptoms1] => Moodswings, Lossoffocus, Lossofmemory, Anxiety
+    [is_symptoms2] => Vaginal atrophy, Low libidoPalpitations, Skin changes, Joint Pain, Burnings sensation, Fatigue
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => Vaginal atrophy, Low libido
+    [cycle_lengths_changed_recently] => Yes
+    [duration_period_changed] => Yes
+    [bleeding_been_heavier_period] => Yes
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => Menopause, Gynaecologist
+    [received_diagnosis_healthcare_professional] => Yes
+    [on_hormone_replacement_therapy] => HRTYes
+    [which_form_of_HRT_are_you_on] => Tables
+    [type_of_HRT_routine_are_you_on] => Continuous Combined HRT
+    [type_of_cyclic_HRT_routine_are_you_on] => 3 Monthly HRT
+    [drinking] => Regularly
+    [exercise] => RegularlyI excercise more than before
+)
+Array
+(
+    [excercise_patterns_changes] => I excercise more than before
+    [often_excercise] => Regularly
+    [affect_sleep] => No
+    [on_hormone_replacement_therapy] => Yes
+    [weight] => 85
+    [changes_weight] => Yes
+    [cycle_lengths_changed_recently] => 
+    [period] => No
+    [often_consume_alcohol] => Regularly
+    [cold_flashes] => 
+    [duration_period_changed] => 
+    [occur_cf] => 
+    [exercise] => I excercise more than before Regularly
+    [is_symptoms1] => Mood Swings
+    [ethnic_origin] => Indian
+    [last_period_date] => March-2015
+    [hot_flashes] => 
+    [smoke] => No
+    [is_symptoms2] => Vaginal atrophy,Palpitations
+    [received_diagnosis_healthcare_professional] => Yes
+    [birth_year] => 1989
+    [experience_symptoms] => 
+    [country_of_residence] => India
+    [nhs_or_private_healthcare] => NHS
+    [occur_hf] => 
+    [type_of_HRT_routine_are_you_on] => Cyclic HRT
+    [height] => 5'8" (173 cm)
+    [night_sweats] => 
+    [occur_ns] => 
+    [spoken_abt_menopausal] => Yes
+    [drinking] => Regularly
+    [type_of_cyclic_HRT_routine_are_you_on] => 3-Monthly HRT
+    [bleeding_been_heavier_period] => 
+    [whom_did_you_consult] => Nurse,General Practitioner
+    [which_form_of_HRT_are_you_on] => Tablets,Implants
+    [first_name] => ios
+)
+Array
+(
+    [type_of_HRT_routine_are_you_on] => 
+    [occur_hf] => 
+    [on_hormone_replacement_therapy] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [night_sweats] => 
+    [drinking] => Occasionally
+    [is_symptoms1] => None
+    [exercise] => I excercise more than before Regularly
+    [cycle_lengths_changed_recently] => 
+    [height] => 4'1" (124 cm)
+    [which_form_of_HRT_are_you_on] => 
+    [spoken_abt_menopausal] => No
+    [received_diagnosis_healthcare_professional] => 
+    [affect_sleep] => No
+    [often_excercise] => Regularly
+    [bleeding_been_heavier_period] => 
+    [birth_year] => 2003
+    [occur_ns] => 
+    [is_symptoms2] => None1,Burning sensation
+    [experience_symptoms] => 
+    [last_period_date] => February-2022
+    [hot_flashes] => 
+    [excercise_patterns_changes] => I excercise more than before
+    [whom_did_you_consult] => 
+    [occur_cf] => 
+    [weight] => 33
+    [often_consume_alcohol] => Occasionally
+    [smoke] => No
+    [ethnic_origin] => African
+    [period] => No
+    [first_name] => but no
+    [cold_flashes] => 
+    [duration_period_changed] => 
+    [country_of_residence] => Antarctica
+    [nhs_or_private_healthcare] => 
+    [changes_weight] => No
+)
+Array
+(
+    [hot_flashes] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [night_sweats] => 
+    [is_symptoms2] => Painful sex,Joint pain
+    [birth_year] => 2002
+    [occur_cf] => 
+    [on_hormone_replacement_therapy] => 
+    [height] => 4'2" (127 cm)
+    [which_form_of_HRT_are_you_on] => 
+    [often_excercise] => Regularly
+    [is_symptoms1] => Loss of focus
+    [type_of_HRT_routine_are_you_on] => 
+    [weight] => 34
+    [first_name] => McCullough. j
+    [drinking] => Occasionally
+    [bleeding_been_heavier_period] => 
+    [duration_period_changed] => 
+    [changes_weight] => Yes
+    [occur_hf] => 
+    [ethnic_origin] => African
+    [last_period_date] => February-2021
+    [exercise] => I excercise less than before Regularly
+    [spoken_abt_menopausal] => No
+    [affect_sleep] => No
+    [country_of_residence] => Anguilla
+    [cycle_lengths_changed_recently] => 
+    [period] => No
+    [experience_symptoms] => 
+    [excercise_patterns_changes] => I excercise less than before
+    [smoke] => No
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [cold_flashes] => 
+    [occur_ns] => 
+    [often_consume_alcohol] => Occasionally
+    [nhs_or_private_healthcare] => 
+)
+Array
+(
+    [first_name] => 
+    [birth_year] => 
+    [ethnic_origin] => 
+    [country_of_residence] => 
+    [height] => 
+    [weight] => 
+    [changes_weight] => 
+    [often_excercise] => 
+    [excercise_patterns_changes] => 
+    [often_consume_alcohol] => 
+    [smoke] => 
+    [period] => 
+    [last_period_date] => -
+    [hot_flashes] => 
+    [occur_hf] => 
+    [night_sweats] => 
+    [cold_flashes] => 
+    [occur_cf] => 
+    [affect_sleep] => 
+    [is_symptoms1] => 
+    [is_symptoms2] => 
+    [experience_symptoms] => 
+    [spoken_abt_menopausal] => 
+    [cycle_lengths_changed_recently] => 
+    [duration_period_changed] => 
+    [bleeding_been_heavier_period] => 
+    [occur_ns] => 
+    [nhs_or_private_healthcare] => 
+    [whom_did_you_consult] => 
+    [received_diagnosis_healthcare_professional] => 
+    [on_hormone_replacement_therapy] => 
+    [which_form_of_HRT_are_you_on] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [drinking] => 
+    [exercise] => 
+)
+Array
+(
+    [country_of_residence] => United Kingdom
+    [excercise_patterns_changes] => I excercise less than before
+    [duration_period_changed] => Yes
+    [cycle_lengths_changed_recently] => Yes
+    [which_form_of_HRT_are_you_on] => Skin Patches
+    [occur_hf] => 
+    [first_name] => Nitya
+    [spoken_abt_menopausal] => Yes
+    [weight] => 46
+    [is_symptoms2] => Low libido,Painful sex,Skin changes,Joint pain
+    [type_of_HRT_routine_are_you_on] => Continuous Combined HRT
+    [experience_symptoms] => 
+    [smoke] => No
+    [last_period_date] => March-2023
+    [changes_weight] => Yes
+    [often_consume_alcohol] => Occasionally
+    [is_symptoms1] => Loss of memory,Loss of focus
+    [on_hormone_replacement_therapy] => Yes
+    [type_of_cyclic_HRT_routine_are_you_on] => 3-Monthly HRT
+    [hot_flashes] => 11-20 times a day
+    [drinking] => Occasionally
+    [received_diagnosis_healthcare_professional] => Yes
+    [occur_ns] => 
+    [bleeding_been_heavier_period] => No
+    [height] => 4'10" (147 cm)
+    [night_sweats] => 
+    [exercise] => I excercise less than before Occasionally
+    [ethnic_origin] => Indian
+    [affect_sleep] => No
+    [period] => Yes
+    [often_excercise] => Occasionally
+    [occur_cf] => 
+    [whom_did_you_consult] => General Practitioner
+    [nhs_or_private_healthcare] => Private Healthcare
+    [cold_flashes] => 
+    [birth_year] => 1985
+)
+Array
+(
+    [smoke] => No
+    [which_form_of_HRT_are_you_on] => 
+    [drinking] => Rarely
+    [nhs_or_private_healthcare] => 
+    [duration_period_changed] => 
+    [often_consume_alcohol] => Rarely
+    [affect_sleep] => No
+    [occur_ns] => 
+    [exercise] => I excercise the same amount Occasionally
+    [occur_cf] => 
+    [cold_flashes] => 
+    [night_sweats] => 
+    [last_period_date] => April-2022
+    [often_excercise] => Occasionally
+    [bleeding_been_heavier_period] => 
+    [weight] => 30
+    [whom_did_you_consult] => 
+    [type_of_HRT_routine_are_you_on] => 
+    [period] => No
+    [on_hormone_replacement_therapy] => 
+    [first_name] => f
+    [is_symptoms2] => Low libido,Joint pain
+    [experience_symptoms] => 
+    [country_of_residence] => Argentina
+    [received_diagnosis_healthcare_professional] => 
+    [is_symptoms1] => Loss of memory
+    [ethnic_origin] => Indian
+    [excercise_patterns_changes] => I excercise the same amount
+    [occur_hf] => 
+    [height] => 4'1" (124 cm)
+    [spoken_abt_menopausal] => No
+    [changes_weight] => Yes
+    [cycle_lengths_changed_recently] => 
+    [hot_flashes] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [birth_year] => 2002
+)
+Array
+(
+    [experience_symptoms] => 
+    [period] => No
+    [exercise] => I excercise less than before Occasionally
+    [cycle_lengths_changed_recently] => 
+    [often_excercise] => Occasionally
+    [type_of_HRT_routine_are_you_on] => 
+    [whom_did_you_consult] => 
+    [smoke] => No
+    [last_period_date] => February-2022
+    [occur_hf] => 
+    [duration_period_changed] => 
+    [occur_cf] => 
+    [is_symptoms2] => Low libido,Burning sensation
+    [affect_sleep] => No
+    [changes_weight] => No
+    [hot_flashes] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [excercise_patterns_changes] => I excercise less than before
+    [ethnic_origin] => Pakistani
+    [weight] => 33
+    [height] => 4'1" (124 cm)
+    [received_diagnosis_healthcare_professional] => 
+    [bleeding_been_heavier_period] => 
+    [nhs_or_private_healthcare] => 
+    [cold_flashes] => 
+    [first_name] => c
+    [drinking] => Not applicable
+    [is_symptoms1] => Loss of focus,Mood Swings
+    [country_of_residence] => Antigua & Barbuda
+    [often_consume_alcohol] => Not applicable
+    [birth_year] => 2003
+    [on_hormone_replacement_therapy] => 
+    [night_sweats] => 
+    [occur_ns] => 
+    [spoken_abt_menopausal] => No
+    [which_form_of_HRT_are_you_on] => 
+)
+Array
+(
+    [occur_ns] => 
+    [occur_hf] => 
+    [nhs_or_private_healthcare] => 
+    [experience_symptoms] => 
+    [received_diagnosis_healthcare_professional] => 
+    [smoke] => No
+    [whom_did_you_consult] => 
+    [first_name] => f
+    [is_symptoms2] => Low libido,Burning sensation
+    [excercise_patterns_changes] => I excercise the same amount
+    [birth_year] => 2002
+    [height] => 4'8" (142 cm)
+    [ethnic_origin] => Indian
+    [type_of_HRT_routine_are_you_on] => 
+    [type_of_cyclic_HRT_routine_are_you_on] => 
+    [occur_cf] => 
+    [exercise] => I excercise the same amount Occasionally
+    [night_sweats] => 
+    [which_form_of_HRT_are_you_on] => 
+    [drinking] => Regularly
+    [spoken_abt_menopausal] => No
+    [changes_weight] => No
+    [bleeding_been_heavier_period] => 
+    [on_hormone_replacement_therapy] => 
+    [often_excercise] => Occasionally
+    [affect_sleep] => No
+    [cycle_lengths_changed_recently] => 
+    [last_period_date] => February-2022
+    [often_consume_alcohol] => Regularly
+    [duration_period_changed] => 
+    [country_of_residence] => Antarctica
+    [period] => No
+    [weight] => 30
+    [hot_flashes] => 
+    [cold_flashes] => 
+    [is_symptoms1] => Loss of memory
+)
